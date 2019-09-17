@@ -1,0 +1,7 @@
+# Chrome Driver
+*.exe
+
+# PyCharm
+.idea/
+__pycache__/
+*/__pycache__/*
